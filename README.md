@@ -39,29 +39,19 @@ The dashboard centralizes attrition-related KPIs, enabling quick identification 
 
 ---
 
-## 📷 Dashboard Preview
-*(Add your PNG screenshots here)*  
-Example:  
-![Dashboard Screenshot](dashboard_page1.png)
+## 📷 Dashboard Preview  
+![Dashboard Screenshot]([dashboard_page1.png](https://github.com/ksweta01/HR-Attrition-Insights-Decision-Support-Dashboard/blob/main/Attrition%20Analysis.png))
 
 ---
 
 ## 📂 Dataset
-- **Source:** Provided HR dataset *(anonymized for confidentiality)*.
-- **Size:** XX rows × XX columns.
-
----
-
-## 📄 How to Use
-1. Open the Power BI `.pbix` file in Power BI Desktop.
-2. Review and interact with the dashboard using slicers and filters.
-3. Adjust data connections if using a different dataset.
+- **Size:** 1470 rows × 41 columns.
 
 ---
 
 ## 👩‍💻 Author
 **[Your Name]**  
-- GitHub: [Your GitHub Link]  
-- LinkedIn: [Your LinkedIn Link]
+- GitHub: [[Your GitHub Link](https://github.com/ksweta01)]  
+- LinkedIn: [[Your LinkedIn Link](https://www.linkedin.com/in/kumari-sweta-85b4432a7/)]
 
 ---
