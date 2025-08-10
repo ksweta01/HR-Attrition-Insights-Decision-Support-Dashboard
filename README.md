@@ -28,13 +28,13 @@ The dashboard centralizes attrition-related KPIs, enabling quick identification 
 ## 📊 Key Insights from the Dashboard
 - **Overall Attrition Rate:** 16%
 - **Highest Turnover Segment:** Sales Executives with poor work-life balance scores.
-- **Departmental Trends:** Certain departments experience significantly higher attrition than others.
-- **Age & Education Factors:** Younger employees and specific education fields have higher attrition rates.
+- **Departmental Trends:** R&D department experience significantly higher attrition than others.
+- **Age & Education Factors:** Younger employees from age 25-34 and Life Sciences education fields have higher attrition rates.
 
 ---
 
 ## ⏱ Business Impact
-- **Reduced reporting time** from approximately **4 hours** of manual Excel analysis to **under 15 minutes** with automated visual insights.
+- **Reduced reporting time** from approximately **4 hours** of manual Excel analysis to **under 30 minutes** with automated visual insights.
 - Improved HR’s ability to detect at-risk employee groups and implement targeted retention strategies.
 
 ---
