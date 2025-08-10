@@ -40,7 +40,7 @@ The dashboard centralizes attrition-related KPIs, enabling quick identification 
 ---
 
 ## 📷 Dashboard Preview  
-![Dashboard Screenshot]([dashboard_page1.png](https://github.com/ksweta01/HR-Attrition-Insights-Decision-Support-Dashboard/blob/main/Attrition%20Analysis.png))
+![Dashboard Screenshot](https://github.com/ksweta01/HR-Attrition-Insights-Decision-Support-Dashboard/blob/main/Attrition%20Analysis.png)
 
 ---
 
@@ -51,7 +51,7 @@ The dashboard centralizes attrition-related KPIs, enabling quick identification 
 
 ## 👩‍💻 Author
 **[Your Name]**  
-- GitHub: [[Your GitHub Link](https://github.com/ksweta01)]  
-- LinkedIn: [[Your LinkedIn Link](https://www.linkedin.com/in/kumari-sweta-85b4432a7/)]
+- GitHub: [[github.com/ksweta01](https://github.com/ksweta01)]  
+- LinkedIn: [[linkedin.com/in/kumari-sweta-85b4432a7/](https://www.linkedin.com/in/kumari-sweta-85b4432a7/)]
 
 ---
