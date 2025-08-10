@@ -45,6 +45,7 @@ The dashboard centralizes attrition-related KPIs, enabling quick identification 
 ---
 
 ## 📂 Dataset
+- **Data:** [HR Data](https://github.com/ksweta01/HR-Attrition-Insights-Decision-Support-Dashboard/blob/main/HR%20Data.xlsx)
 - **Size:** 1470 rows × 41 columns.
 
 ---
